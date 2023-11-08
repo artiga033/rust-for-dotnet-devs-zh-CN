@@ -1,0 +1,15 @@
+[book]
+language = "zh"
+multilingual = false
+src = "src"
+title = "Rust for C#/.NET Developers"
+
+[output.html]
+additional-css = ["ferris.css"]
+additional-js = ["ferris.js"]
+git-repository-url = "https://github.com/artiga033/rust-for-dotnet-devs-zh-CN"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/artiga033/rust-for-dotnet-devs-zh-CN/edit/main/{path}"
+
+[output.html.playground]
+runnable = false
