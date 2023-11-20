@@ -12,7 +12,7 @@
 本书目标：
 
 - 简要的对比 C#/.NET 的若干话题和它们对应的 Rust 版本。
-- 提供深入探究这些话题的 Rust 参考、书籍、文章链接。
+- 提供深入探究这些话题的 Rust 参考、书籍、文章链接[^localization]。
 
 非本书目标：
 
@@ -34,3 +34,5 @@
 [^translators]:译者注①：此译本的贡献者为：[artiga033]
 
   [artiga033]: https://github.com/artiga033
+
+[^localization]:译者注②：为本地化考虑，此译本替换了部分链接为对应的中文版本，具体参见[本地化外部引用索引](./contributing.md#本地化外部引用索引)
