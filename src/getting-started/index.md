@@ -2,8 +2,7 @@
 
 ## Rust Playground
 
-使用 [Rust Playground] 是最简单的一种不需要 本地安装就能体验 Rust 的方法。
-它是一个极简的开发前端，运行在浏览器中，并且可以编写和运行 Rust 代码。
+使用 [Rust Playground] 是最简单的一种不需要 本地安装就能体验 Rust 的方法。它是一个极简的开发前端，运行在浏览器中，并且可以编写和运行 Rust 代码。
 
 ## Dev Container
 

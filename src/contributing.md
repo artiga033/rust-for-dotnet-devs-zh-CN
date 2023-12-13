@@ -13,4 +13,5 @@
 |原站|中文版|备注|
 |----|----|----|
 |<https://doc.rust-lang.org/book/>|<https://kaisery.github.io/trpl-zh-cn/>| |
-|<https://www.rust-lang.org>|<https://www.rust-lang.org/zh-CN/>
+|<https://www.rust-lang.org>|<https://www.rust-lang.org/zh-CN/> | |
+|<https://learn.microsoft.com/en-us/>|<https://learn.microsoft.com/zh-cn/> | 可能有机翻 |
